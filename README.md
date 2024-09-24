@@ -8,7 +8,7 @@
 
 ## Um pouco sobre mim:
 
-Iniciei uma jornada empolgante no mundo da infraestrutura de TI, buscando solucionar problemas complexos e otimizar operações. 🚀 Agora, mergulho no universo da programação, aprimorando minhas habilidades para construir soluções inovadoras que impactem positivamente a vida das pessoas. 💻 Graduando em Análise e Desenvolvimento de Sistemas, dedico-me a aprender e contribuir com a evolução tecnológica. 💡
+Iniciei uma jornada empolgante no mundo da infraestrutura de TI, buscando solucionar problemas complexos e otimizar operações. 🚀 Agora, mergulho no universo da programação, aprimorando minhas habilidades para construir soluções inovadoras que impactem positivamente a vida das pessoas. 💻 Graduado em Análise e Desenvolvimento de Sistemas, dedico-me a aprender e contribuir com a evolução tecnológica. 💡
 
 ## Tecnologias em Aprendizado
 
